@@ -5,4 +5,4 @@
 2. The dataset has the attributes of the customers who visited a Mall; consisting of their annual salary and spending score.
 3. The analysis was performed in the following sequential steps:
 * Find the number of clusters for K means clustering using elbow method    
-[]!(images/elbow_plot.png)
+![](images/elbow_plot.png)
